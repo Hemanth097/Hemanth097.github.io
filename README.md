@@ -5,6 +5,9 @@ and always looking for new challanges
 
 for any further queries or information, feel free to contact me anytime, available in all popular social media
 direct link can be found from my portfolio 
+https://hemanth097.github.io/
+
+portfolio is still under construction 
 
 <!--
 **Hemanth097/Hemanth097** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
